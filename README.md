@@ -8,11 +8,9 @@ The vision for Browser use is to provide a browser for AI Agents to interact wit
 
 ## Features
 
-- Smart paper search and recommendations
-- PDF document analysis and summarization
-- Citation management
-- Interactive chat interface for research queries
-- Export citations in multiple formats
+- Initiate a browser session
+- Interact with the browser
+- Have a live feed sent through websockets
 
 ## Running Locally
 
