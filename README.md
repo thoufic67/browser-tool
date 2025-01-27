@@ -14,7 +14,7 @@ The vision for Browser use is to provide a browser for AI Agents to interact wit
 
 ## Demo
 
-![Demo](https://www.loom.com/share/2ff8f35249b744bc9761431ab94761ee?sid=b609907f-3d50-4e5b-9d3e-9f17f91bcc36)
+[Browser Tool Demo](https://www.loom.com/share/2ff8f35249b744bc9761431ab94761ee?sid=b609907f-3d50-4e5b-9d3e-9f17f91bcc36)
 
 ## Running Locally
 
